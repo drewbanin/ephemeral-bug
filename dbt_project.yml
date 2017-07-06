@@ -16,3 +16,7 @@ models:
     package_name:
         slow:
             materialized: table
+
+
+
+
